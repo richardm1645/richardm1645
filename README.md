@@ -1,6 +1,14 @@
 # 📝 Richard Miao
 
-**`Digital Content Creator, aspiring Web Developer`**
+**`Digital Content Creator and aspiring Full-Stack Developer`**
+
+## Hello there! I'm a YouTuber and Web Developer familar with design, web frameworks, and digital content creation. 
+
+- 🔭 I’m currently working on a video game forum site
+- 🌱 I’m currently learning Tailwind CSS
+- 💬 Ask me about editing softwares and SEO optimization
+- 📫 How to reach me: [richardmiao1645@gmail.com](mailto:richardmiao1645@gmail.com)
+--- 
 <!--
 **richardm1645/richardm1645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
